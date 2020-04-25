@@ -1,4 +1,8 @@
-A graphical form builder built in Vue
+## Vue Form Builder
+
+A graphical form builder built in Vue to output simple json form definitions
+
+Nothing here yet
 
 ## Project setup
 ```
