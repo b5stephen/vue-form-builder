@@ -1,0 +1,32 @@
+{
+    "settings" : {
+        "someting" : true
+    },
+    "items" : [
+        {
+            "name" : "field-0",
+            "label" : "Field 0",
+            "type" : "text"
+        },
+        {
+            "name" : "section-one",
+            "label" : "Section One",
+            "type" : "section",
+            "items" : [
+                {
+                    "name" : "field-1",
+                    "label" : "Field 1",
+                    "type" : "text",
+                    "toolTip" : "This is a test tooltip"
+                },
+                {
+                    "name" : "field-2",
+                    "label" : "Field 2",
+                    "type" : "text",
+                    "optional" : true
+                }
+            ]
+
+        }
+    ]
+}
